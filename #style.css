@@ -1,0 +1,22 @@
+body{
+    background: black;
+}
+
+#lojas{
+    width:100%;
+    height:100% px;
+}
+
+h1{
+    text-align: center;
+    background:black ;
+}
+
+p{
+    text-align: center;
+    background: black;
+}
+
+strong{
+    color: aquamarine;
+}
