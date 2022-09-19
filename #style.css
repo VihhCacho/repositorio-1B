@@ -1,5 +1,5 @@
 body{
-    background: black;
+    background: rgb(252, 236, 10);
 }
 
 #lojas{
@@ -9,12 +9,12 @@ body{
 
 h1{
     text-align: center;
-    background:black ;
+    background:rgb(139, 137, 6) ;
 }
 
 p{
     text-align: center;
-    background: black;
+    background: rgb(122, 231, 146);
 }
 
 strong{
