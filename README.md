@@ -1,1 +1,1 @@
-priimeiro repositorio criado com a turma do 1B em Pensamento Computacional.
+https://vihhcacho.github.io/repositorio-1B/
