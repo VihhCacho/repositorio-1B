@@ -1,3 +1,7 @@
 header{
     background-color: rgb(240, 74, 165);
 }
+
+nav li{
+    display: inline;
+}
