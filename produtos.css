@@ -22,4 +22,6 @@ nav a {
 text-transform: uppercase;
 color: aqua;
 font-weight: bold;
+font-size: 20px;
+text-decoration: none ;
 }
