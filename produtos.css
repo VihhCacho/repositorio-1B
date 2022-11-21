@@ -39,10 +39,12 @@ text-decoration: none ;
 .produtos {
     width: 700px;
     margin: 0 auto;
+
 }
 
 .produtos li {
        display: inline-block;
+       text-align: center;
 }
 
 .item{
