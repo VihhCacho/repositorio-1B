@@ -41,11 +41,11 @@ text-decoration: none ;
     margin: 0 auto;
 }
 
-    .produtos li {
-        display: inline-block;
-    }
+.produtos li {
+       display: inline-block;
+}
 
-    .item{
-        width: 350;
-        height: 260px;
-    }
+.item{
+     width: 350;
+     height: 260px;
+}
