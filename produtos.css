@@ -40,3 +40,11 @@ text-decoration: none ;
     width: 1200px;
     margin: 0 auto;
 }
+
+    .produto li {
+        display: inline-block;
+    }
+    .item{
+        width: 350;
+        height: 260px;
+    }
