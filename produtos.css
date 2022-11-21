@@ -36,15 +36,15 @@ text-decoration: none ;
 }
 
 
-.produto{
+.produtos{
     width: 1200px;
     margin: 0 auto;
 }
 
-    .produto li {
+    .produtos li {
         display: inline-block;
     }
-    
+
     .item{
         width: 350;
         height: 260px;
