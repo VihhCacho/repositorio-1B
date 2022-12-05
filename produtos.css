@@ -46,7 +46,7 @@ text-decoration: none ;
        display: inline-block;
        text-align: center;
        margin-top: 0 10px;
-       border-color: black;
+       border-color: rgb(29, 3, 3);
        border-width: 3px;
        border-style:dotted;
       
@@ -65,4 +65,5 @@ text-decoration: none ;
 .produtos li p {
     font-size: 20px;
     margin-top: 10px;
+    margin-bottom: 15px;
 }
